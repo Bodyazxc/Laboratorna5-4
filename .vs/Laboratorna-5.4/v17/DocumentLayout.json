@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Compik_2\\source\\repos\\Laboratorna-5.4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D039171-8B1D-43C1-8101-355D23526518}|UnitTest5\\UnitTest5.vcxproj|C:\\Users\\Compik_2\\source\\repos\\Laboratorna-5.4\\UnitTest5\\UnitTest5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D039171-8B1D-43C1-8101-355D23526518}|UnitTest5\\UnitTest5.vcxproj|solutionrelative:UnitTest5\\UnitTest5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7228E4B2-C6B7-46D1-B3C8-CB57DB7DD5E5}|Laboratorna-5.4\\Laboratorna-5.4.vcxproj|C:\\Users\\Compik_2\\source\\repos\\Laboratorna-5.4\\Laboratorna-5.4\\Laboratorna-5.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7228E4B2-C6B7-46D1-B3C8-CB57DB7DD5E5}|Laboratorna-5.4\\Laboratorna-5.4.vcxproj|solutionrelative:Laboratorna-5.4\\Laboratorna-5.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest5.cpp",
+              "DocumentMoniker": "C:\\Users\\Compik_2\\source\\repos\\Laboratorna-5.4\\UnitTest5\\UnitTest5.cpp",
+              "RelativeDocumentMoniker": "UnitTest5\\UnitTest5.cpp",
+              "ToolTip": "C:\\Users\\Compik_2\\source\\repos\\Laboratorna-5.4\\UnitTest5\\UnitTest5.cpp",
+              "RelativeToolTip": "UnitTest5\\UnitTest5.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwB8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T17:10:51.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Laboratorna-5.4.cpp",
+              "DocumentMoniker": "C:\\Users\\Compik_2\\source\\repos\\Laboratorna-5.4\\Laboratorna-5.4\\Laboratorna-5.4.cpp",
+              "RelativeDocumentMoniker": "Laboratorna-5.4\\Laboratorna-5.4.cpp",
+              "ToolTip": "C:\\Users\\Compik_2\\source\\repos\\Laboratorna-5.4\\Laboratorna-5.4\\Laboratorna-5.4.cpp",
+              "RelativeToolTip": "Laboratorna-5.4\\Laboratorna-5.4.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwCcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T15:50:54.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
